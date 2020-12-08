@@ -1,2 +1,3 @@
 # hello-world
-just another repository
+Hi Peeps!!
+48 year old who realized that he loves to work on Python!! Really looking forward to learn more....
